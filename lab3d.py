@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Lab 3 Part 2 - Running System Commands'''
+
 # Author ID: epatel16
 
 import subprocess
