@@ -3,15 +3,15 @@
 # Author ID: epatel16
 
 def sum_numbers(number1, number2):
-    '''Return the sum of number1 and number2'''
+    
     return int(number1) + int(number2)
 
 def subtract_numbers(number1, number2):
-    '''Return the result of subtracting number2 from number1'''
+    
     return int(number1) - int(number2)
 
 def multiply_numbers(number1, number2):
-    '''Return the product of number1 and number2'''
+    
     return int(number1) * int(number2)
 
 if __name__ == '__main__':
